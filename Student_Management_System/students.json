@@ -9,5 +9,16 @@
             90,
             88
         ]
+    },
+    {
+        "student_id": 102,
+        "name": "Alice",
+        "age": 21,
+        "course": "Information Technology",
+        "marks": [
+            92,
+            87,
+            95
+        ]
     }
 ]
